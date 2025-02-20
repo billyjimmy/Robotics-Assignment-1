@@ -8,5 +8,6 @@ Pledge Algorithm
 
 Plus unfinished Tremaux's algorithm
 
-See video above, called Robotics Mp4. Sadly could not upload to youtube for some reason
+Video is called Robotics.mp4, or there is a panopto link below:
+https://shu.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e7c75cfd-8bd9-42d4-8d08-b28a00f5be2f
 
