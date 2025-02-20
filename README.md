@@ -8,4 +8,5 @@ Pledge Algorithm
 
 Plus unfinished Tremaux's algorithm
 
-Reminder to put vid link here!
+See video above, called Robotics Mp4. Sadly could not upload to youtube for some reason
+
